@@ -72,7 +72,7 @@ Fake-Job-Posting-Detection/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Fake-Job-Posting-Detection.git
+git clone https://github.com/khushi-sahani/Fake-Job-Posting-Detection.git
 ```
 
 2. Open the project folder:
